@@ -2,7 +2,7 @@
     "id": "nodebb-plugin-local-image-upload",
     "name": "local image upload",
     "description": "A Plugin that uploads images to uploads directory locally",
-    "url": "",
+    "url": "https://github.com/vishnu667/nodebb-plugin-local-image-upload",
     "library": "./index.js",
     "hooks": [
         { "hook": "filter:uploadImage", "method": "upload", "priority": 6 }
