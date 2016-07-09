@@ -4,4 +4,6 @@ A Plugin for nodebb for Topic posts that uploads images to uploads directory loc
 
 ## Installation
 
-    npm install nodebb-plugin-local-image-upload
+```shell
+npm install nodebb-plugin-local-image-upload
+```
