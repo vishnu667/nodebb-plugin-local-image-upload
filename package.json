@@ -20,5 +20,8 @@
     "contributors":[
         "Pradeep Patro <smartameer@icloud.com>"
     ],
-    "license": "MIT"
+    "license": "MIT",
+    "nbbpm": {
+        "compatibility": "^1.0.3"
+    }
 }
