@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # NodeBB Plugin Local image upload.
 
 A Plugin for nodebb for Topic posts that uploads images to uploads directory locally.
