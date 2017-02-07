@@ -1,7 +1,7 @@
 {
     "name": "nodebb-plugin-local-image-upload",
-    "version": "0.0.1",
-    "description": "A Plugin that uploads images to uploads directory locally",
+    "version": "0.0.2",
+    "description": "A Plugin that uploads images to uploads directory locally with user folder as subdirectory",
     "main": "index.js",
     "repository": {
         "type": "git",
