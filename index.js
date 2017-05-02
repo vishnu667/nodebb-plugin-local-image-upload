@@ -24,7 +24,7 @@
             function (next) {
                 winston.log('image '+image.path);
                 var fileName = new Date().getTime()+image.name;
-                var uploadPath = path.join(nconf.get('base_dir'), nconf.get('upload_path'), folder, ''+uid);
+                var uploadPath = path.join(nconf.get('upload_path'), folder, ''+uid);
                 if (!fs.existsSync(uploadPath)) {
                     fs.mkdirSync(uploadPath);
                 } else {
